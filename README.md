@@ -19,7 +19,7 @@
 
 > **An interactive Streamlit application showcasing LangChain agents with multiple tools — calculator, weather, news, movie details, recipes, and distance calculations — powered by structured function calling.**
 
-🔗 #**Live App:** [hermendevtool.streamlit.app](https://hermendevtool.streamlit.app/)
+🔗 # **Live App:** [hermendevtool.streamlit.app](https://hermendevtool.streamlit.app/)
 
 ---
 
