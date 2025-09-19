@@ -1,11 +1,15 @@
-# dev-tool
+# **Name:Muhammad Hermen Khan**
 
-Perfect 🙂 — here’s the same README with **professional GitHub badges** added at the top.
-Badges are clickable and automatically update on GitHub to show versions/status.
+
+# **Email:khanhermen@gmail.com**
+
+# **Agentic AI Bootcamp Cohort 02**
+
+
 
 ---
 
-# 🛠️ Function Calling Assignment
+# 🛠️ Agentic AI Bootcamp – Capstone Project
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python\&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit\&logoColor=white)](https://streamlit.io/)
@@ -152,14 +156,7 @@ LANGSMITH_TRACING = True
 
 ---
 
-## 🖥️ Screenshots
 
-*(Optional – add your screenshots here)*
-
-* ![Streamlit Sidebar](assets/sidebar.png)
-* ![Example Output](assets/example-output.png)
-
----
 
 ## 📝 License
 
@@ -174,4 +171,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Would you like me to **design a small architecture diagram image** for you (based on your tools + LangChain + APIs) that you can include directly in your README? (It would make it even more eye-catching.)
+
