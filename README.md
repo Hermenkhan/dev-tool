@@ -72,7 +72,7 @@ This project demonstrates a **LangChain-based agent** integrated with multiple r
 External APIs (OpenWeatherMap, NewsAPI, OMDb, Spoonacular, OpenCage)
 ```
 
-*(Replace with an image if you have one, e.g. `/assets/architecture.png`)*
+
 
 ---
 
